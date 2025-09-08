@@ -1,39 +1,326 @@
-[02:27:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:27:16] [ServerMain/INFO]: No existing world data, creating new world
-[02:27:18] [ServerMain/INFO]: Loaded 1407 recipes
-[02:27:18] [ServerMain/INFO]: Loaded 1520 advancements
-[02:27:18] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[02:27:18] [Server thread/INFO]: Loading properties
-[02:27:18] [Server thread/INFO]: Default game type: SURVIVAL
-[02:27:18] [Server thread/INFO]: Generating keypair
-[02:27:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:27:18] [Server thread/INFO]: Using epoll channel type
-[02:27:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:27:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:27:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:27:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:27:18] [Server thread/INFO]: Preparing level "world"
-[02:27:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:27:30] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:27:31] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:27:31] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:27:32] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:27:32] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:27:33] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:27:33] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:27:34] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[02:27:34] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[02:27:35] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[02:27:35] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[02:27:36] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[02:27:36] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[02:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[02:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[02:27:38] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[02:27:38] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[02:27:39] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[02:27:39] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[02:27:40] [Worker-Main-1/INFO]: Preparing spawn area: 40%
-[02:27:40] [Server thread/INFO]: Time elapsed: 9574 ms
-[02:27:40] [Server thread/INFO]: Done (21.624s)! For help, type "help"
-[02:28:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:09:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:09:50] [ServerMain/INFO]: Loaded 1407 recipes
+[03:09:50] [ServerMain/INFO]: Loaded 1520 advancements
+[03:09:50] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[03:09:50] [Server thread/INFO]: Loading properties
+[03:09:50] [Server thread/INFO]: Default game type: SURVIVAL
+[03:09:50] [Server thread/INFO]: Generating keypair
+[03:09:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:09:50] [Server thread/INFO]: Using epoll channel type
+[03:09:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:09:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:09:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:09:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:09:50] [Server thread/INFO]: Preparing level "world"
+[03:09:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:09:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:10:00] [Server thread/INFO]: Time elapsed: 8949 ms
+[03:10:00] [Server thread/INFO]: Done (9.358s)! For help, type "help"
+[03:10:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:10:17] [Server thread/INFO]: azsdfsdfdfaslkñbhjhdsfag+}dfeagg}dfga<--[HERE]
+[03:10:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:10:18] [Server thread/INFO]: d<--[HERE]
+[03:10:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:10:18] [Server thread/INFO]: fa}gdf<--[HERE]
+[03:10:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:10:19] [Server thread/INFO]: }agdfa}gd}fag}dfag}dfga}dfag}dfsga<--[HERE]
+[03:10:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:10:19] [Server thread/INFO]: daf<--[HERE]
+[03:10:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:10:20] [Server thread/INFO]: <--[HERE]
+[03:10:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:10:20] [Server thread/INFO]: dfag<--[HERE]
+[03:10:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:10:20] [Server thread/INFO]: adf<--[HERE]
+[03:10:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:10:20] [Server thread/INFO]: g<--[HERE]
+[03:10:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:10:20] [Server thread/INFO]: adfg<--[HERE]
+[03:10:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:10:20] [Server thread/INFO]: dfa<--[HERE]
+[03:10:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:10:20] [Server thread/INFO]: ga<--[HERE]
+[03:10:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:10:21] [Server thread/INFO]: dfg<--[HERE]
+[03:10:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:10:21] [Server thread/INFO]: fad<--[HERE]
+[03:10:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:10:21] [Server thread/INFO]: <--[HERE]
+[03:10:24] [Server thread/INFO]: Set the time to 1000
+[03:11:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:12:41] [Server thread/INFO]: /advancement (grant|revoke)
+[03:12:41] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[03:12:41] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[03:12:41] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[03:12:41] [Server thread/INFO]: /clear [<targets>]
+[03:12:41] [Server thread/INFO]: /clone (<begin>|from)
+[03:12:41] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[03:12:41] [Server thread/INFO]: /data (merge|get|remove|modify)
+[03:12:41] [Server thread/INFO]: /datapack (enable|disable|list|create)
+[03:12:41] [Server thread/INFO]: /debug (start|stop|function)
+[03:12:41] [Server thread/INFO]: /defaultgamemode <gamemode>
+[03:12:41] [Server thread/INFO]: /dialog (show|clear)
+[03:12:41] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[03:12:41] [Server thread/INFO]: /effect (clear|give)
+[03:12:41] [Server thread/INFO]: /me <action>
+[03:12:41] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[03:12:41] [Server thread/INFO]: /experience (add|set|query)
+[03:12:41] [Server thread/INFO]: /xp -> experience
+[03:12:41] [Server thread/INFO]: /fill <from> <to> <block> [outline|hollow|destroy|strict|replace|keep]
+[03:12:41] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[03:12:41] [Server thread/INFO]: /forceload (add|remove|query)
+[03:12:41] [Server thread/INFO]: /function <name> [<arguments>|with]
+[03:12:41] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[03:12:41] [Server thread/INFO]: /gamerule (allowFireTicksAwayFromPlayer|announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disablePlayerMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|locatorBar|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplodes|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[03:12:41] [Server thread/INFO]: /give <targets> <item> [<count>]
+[03:12:41] [Server thread/INFO]: /help [<command>]
+[03:12:41] [Server thread/INFO]: /item (replace|modify)
+[03:12:41] [Server thread/INFO]: /kick <targets> [<reason>]
+[03:12:41] [Server thread/INFO]: /kill [<targets>]
+[03:12:41] [Server thread/INFO]: /list [uuids]
+[03:12:41] [Server thread/INFO]: /locate (structure|biome|poi)
+[03:12:41] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[03:12:41] [Server thread/INFO]: /msg <targets> <message>
+[03:12:41] [Server thread/INFO]: /tell -> msg
+[03:12:41] [Server thread/INFO]: /w -> msg
+[03:12:41] [Server thread/INFO]: /particle <name> [<pos>]
+[03:12:41] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[03:12:41] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice|ui]
+[03:12:41] [Server thread/INFO]: /random (value|roll|reset)
+[03:12:41] [Server thread/INFO]: /reload
+[03:12:41] [Server thread/INFO]: /recipe (give|take)
+[03:12:41] [Server thread/INFO]: /return (<value>|fail|run)
+[03:12:41] [Server thread/INFO]: /ride <target> (mount|dismount)
+[03:12:41] [Server thread/INFO]: /rotate <target> (<rotation>|facing)
+[03:12:41] [Server thread/INFO]: /say <message>
+[03:12:41] [Server thread/INFO]: /schedule (function|clear)
+[03:12:41] [Server thread/INFO]: /scoreboard (objectives|players)
+[03:12:41] [Server thread/INFO]: /seed
+[03:12:41] [Server thread/INFO]: /version
+[03:12:41] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace|strict]
+[03:12:41] [Server thread/INFO]: /spawnpoint [<targets>]
+[03:12:41] [Server thread/INFO]: /setworldspawn [<pos>]
+[03:12:41] [Server thread/INFO]: /spectate [<target>]
+[03:12:41] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[03:12:41] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice|ui]
+[03:12:41] [Server thread/INFO]: /summon <entity> [<pos>]
+[03:12:41] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[03:12:41] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[03:12:41] [Server thread/INFO]: /teammsg <message>
+[03:12:41] [Server thread/INFO]: /tm -> teammsg
+[03:12:41] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[03:12:41] [Server thread/INFO]: /tp -> teleport
+[03:12:41] [Server thread/INFO]: /tellraw <targets> <message>
+[03:12:41] [Server thread/INFO]: /test (run|runmultiple|runthese|runclosest|runthat|runfailed|verify|locate|resetclosest|resetthese|resetthat|clearthat|clearthese|clearall|stop|pos|create)
+[03:12:41] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[03:12:41] [Server thread/INFO]: /time (set|add|query)
+[03:12:41] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[03:12:41] [Server thread/INFO]: /trigger <objective> [add|set]
+[03:12:41] [Server thread/INFO]: /waypoint (list|modify)
+[03:12:41] [Server thread/INFO]: /weather (clear|rain|thunder)
+[03:12:41] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[03:12:41] [Server thread/INFO]: /jfr (start|stop)
+[03:12:41] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[03:12:41] [Server thread/INFO]: /banlist [ips|players]
+[03:12:41] [Server thread/INFO]: /ban <targets> [<reason>]
+[03:12:41] [Server thread/INFO]: /deop <targets>
+[03:12:41] [Server thread/INFO]: /op <targets>
+[03:12:41] [Server thread/INFO]: /pardon <targets>
+[03:12:41] [Server thread/INFO]: /pardon-ip <target>
+[03:12:41] [Server thread/INFO]: /perf (start|stop)
+[03:12:41] [Server thread/INFO]: /save-all [flush]
+[03:12:41] [Server thread/INFO]: /save-off
+[03:12:41] [Server thread/INFO]: /save-on
+[03:12:41] [Server thread/INFO]: /setidletimeout <minutes>
+[03:12:41] [Server thread/INFO]: /stop
+[03:12:41] [Server thread/INFO]: /transfer <hostname> [<port>]
+[03:12:41] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[03:12:47] [Server thread/INFO]: Set the time to 1000
+[03:13:05] [Server thread/INFO]: Incorrect argument for command
+[03:13:05] [Server thread/INFO]: gamerule keep inventory true<--[HERE]
+[03:13:14] [Server thread/INFO]: Set the time to 13000
+[03:13:31] [Server thread/INFO]: Seed: [-4400338530555581030]
+[03:15:49] [Server thread/INFO]: /advancement (grant|revoke)
+[03:15:49] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[03:15:49] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[03:15:49] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[03:15:49] [Server thread/INFO]: /clear [<targets>]
+[03:15:49] [Server thread/INFO]: /clone (<begin>|from)
+[03:15:49] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[03:15:49] [Server thread/INFO]: /data (merge|get|remove|modify)
+[03:15:49] [Server thread/INFO]: /datapack (enable|disable|list|create)
+[03:15:49] [Server thread/INFO]: /debug (start|stop|function)
+[03:15:49] [Server thread/INFO]: /defaultgamemode <gamemode>
+[03:15:49] [Server thread/INFO]: /dialog (show|clear)
+[03:15:49] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[03:15:49] [Server thread/INFO]: /effect (clear|give)
+[03:15:49] [Server thread/INFO]: /me <action>
+[03:15:49] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[03:15:49] [Server thread/INFO]: /experience (add|set|query)
+[03:15:49] [Server thread/INFO]: /xp -> experience
+[03:15:49] [Server thread/INFO]: /fill <from> <to> <block> [outline|hollow|destroy|strict|replace|keep]
+[03:15:49] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[03:15:49] [Server thread/INFO]: /forceload (add|remove|query)
+[03:15:49] [Server thread/INFO]: /function <name> [<arguments>|with]
+[03:15:49] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[03:15:49] [Server thread/INFO]: /gamerule (allowFireTicksAwayFromPlayer|announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disablePlayerMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|locatorBar|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplodes|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[03:15:49] [Server thread/INFO]: /give <targets> <item> [<count>]
+[03:15:49] [Server thread/INFO]: /help [<command>]
+[03:15:49] [Server thread/INFO]: /item (replace|modify)
+[03:15:49] [Server thread/INFO]: /kick <targets> [<reason>]
+[03:15:49] [Server thread/INFO]: /kill [<targets>]
+[03:15:49] [Server thread/INFO]: /list [uuids]
+[03:15:49] [Server thread/INFO]: /locate (structure|biome|poi)
+[03:15:49] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[03:15:49] [Server thread/INFO]: /msg <targets> <message>
+[03:15:49] [Server thread/INFO]: /tell -> msg
+[03:15:49] [Server thread/INFO]: /w -> msg
+[03:15:49] [Server thread/INFO]: /particle <name> [<pos>]
+[03:15:49] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[03:15:49] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice|ui]
+[03:15:49] [Server thread/INFO]: /random (value|roll|reset)
+[03:15:49] [Server thread/INFO]: /reload
+[03:15:49] [Server thread/INFO]: /recipe (give|take)
+[03:15:49] [Server thread/INFO]: /return (<value>|fail|run)
+[03:15:49] [Server thread/INFO]: /ride <target> (mount|dismount)
+[03:15:49] [Server thread/INFO]: /rotate <target> (<rotation>|facing)
+[03:15:49] [Server thread/INFO]: /say <message>
+[03:15:49] [Server thread/INFO]: /schedule (function|clear)
+[03:15:49] [Server thread/INFO]: /scoreboard (objectives|players)
+[03:15:49] [Server thread/INFO]: /seed
+[03:15:49] [Server thread/INFO]: /version
+[03:15:49] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace|strict]
+[03:15:49] [Server thread/INFO]: /spawnpoint [<targets>]
+[03:15:49] [Server thread/INFO]: /setworldspawn [<pos>]
+[03:15:49] [Server thread/INFO]: /spectate [<target>]
+[03:15:49] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[03:15:49] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice|ui]
+[03:15:49] [Server thread/INFO]: /summon <entity> [<pos>]
+[03:15:49] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[03:15:49] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[03:15:49] [Server thread/INFO]: /teammsg <message>
+[03:15:49] [Server thread/INFO]: /tm -> teammsg
+[03:15:49] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[03:15:49] [Server thread/INFO]: /tp -> teleport
+[03:15:49] [Server thread/INFO]: /tellraw <targets> <message>
+[03:15:49] [Server thread/INFO]: /test (run|runmultiple|runthese|runclosest|runthat|runfailed|verify|locate|resetclosest|resetthese|resetthat|clearthat|clearthese|clearall|stop|pos|create)
+[03:15:49] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[03:15:49] [Server thread/INFO]: /time (set|add|query)
+[03:15:49] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[03:15:49] [Server thread/INFO]: /trigger <objective> [add|set]
+[03:15:49] [Server thread/INFO]: /waypoint (list|modify)
+[03:15:49] [Server thread/INFO]: /weather (clear|rain|thunder)
+[03:15:49] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[03:15:49] [Server thread/INFO]: /jfr (start|stop)
+[03:15:49] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[03:15:49] [Server thread/INFO]: /banlist [ips|players]
+[03:15:49] [Server thread/INFO]: /ban <targets> [<reason>]
+[03:15:49] [Server thread/INFO]: /deop <targets>
+[03:15:49] [Server thread/INFO]: /op <targets>
+[03:15:49] [Server thread/INFO]: /pardon <targets>
+[03:15:49] [Server thread/INFO]: /pardon-ip <target>
+[03:15:49] [Server thread/INFO]: /perf (start|stop)
+[03:15:49] [Server thread/INFO]: /save-all [flush]
+[03:15:49] [Server thread/INFO]: /save-off
+[03:15:49] [Server thread/INFO]: /save-on
+[03:15:49] [Server thread/INFO]: /setidletimeout <minutes>
+[03:15:49] [Server thread/INFO]: /stop
+[03:15:49] [Server thread/INFO]: /transfer <hostname> [<port>]
+[03:15:49] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[03:15:58] [Server thread/INFO]: Server version info:
+[03:15:58] [Server thread/INFO]: id = 1.21.8
+[03:15:58] [Server thread/INFO]: name = 1.21.8
+[03:15:58] [Server thread/INFO]: data = 4440
+[03:15:58] [Server thread/INFO]: series = main
+[03:15:58] [Server thread/INFO]: protocol = 772 (0x304)
+[03:15:58] [Server thread/INFO]: build_time = Thu Jul 17 12:00:57 UTC 2025
+[03:15:58] [Server thread/INFO]: pack_resource = 64
+[03:15:58] [Server thread/INFO]: pack_data = 81
+[03:15:58] [Server thread/INFO]: stable = yes
+[03:19:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:30] [Server thread/INFO]: asdfwsdf<--[HERE]
+[03:19:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:30] [Server thread/INFO]: sdf<--[HERE]
+[03:19:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:30] [Server thread/INFO]: sdf<--[HERE]
+[03:19:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:30] [Server thread/INFO]: ds<--[HERE]
+[03:19:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:30] [Server thread/INFO]: f<--[HERE]
+[03:19:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:30] [Server thread/INFO]: sd<--[HERE]
+[03:19:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:31] [Server thread/INFO]: fsd<--[HERE]
+[03:19:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:31] [Server thread/INFO]: gf<--[HERE]
+[03:19:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:31] [Server thread/INFO]: das<--[HERE]
+[03:19:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:31] [Server thread/INFO]: fg<--[HERE]
+[03:19:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:31] [Server thread/INFO]: adf<--[HERE]
+[03:19:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:31] [Server thread/INFO]: g<--[HERE]
+[03:19:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:31] [Server thread/INFO]: adf<--[HERE]
+[03:19:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:32] [Server thread/INFO]: gdfa<--[HERE]
+[03:19:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:32] [Server thread/INFO]: g<--[HERE]
+[03:19:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:32] [Server thread/INFO]: adf<--[HERE]
+[03:19:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:32] [Server thread/INFO]: g<--[HERE]
+[03:19:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:32] [Server thread/INFO]: dfa<--[HERE]
+[03:19:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:32] [Server thread/INFO]: g<--[HERE]
+[03:19:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:32] [Server thread/INFO]: fda<--[HERE]
+[03:19:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:33] [Server thread/INFO]: g<--[HERE]
+[03:19:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:33] [Server thread/INFO]: adf<--[HERE]
+[03:19:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:33] [Server thread/INFO]: g<--[HERE]
+[03:19:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:33] [Server thread/INFO]: adfg<--[HERE]
+[03:19:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:33] [Server thread/INFO]: ad<--[HERE]
+[03:19:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:34] [Server thread/INFO]: fg<--[HERE]
+[03:19:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:34] [Server thread/INFO]: dfhj<--[HERE]
+[03:19:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:34] [Server thread/INFO]: fgshagaSFHY<--[HERE]
+[03:19:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:35] [Server thread/INFO]: KGD<--[HERE]
+[03:19:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:35] [Server thread/INFO]: GF<--[HERE]
+[03:19:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:35] [Server thread/INFO]: <--[HERE]
+[03:19:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:35] [Server thread/INFO]: GKLK<--[HERE]
+[03:19:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:36] [Server thread/INFO]: S<--[HERE]
+[03:19:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:36] [Server thread/INFO]: <--[HERE]
+[03:19:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:19:36] [Server thread/INFO]: <--[HERE]
